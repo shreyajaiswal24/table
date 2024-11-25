@@ -1,0 +1,18 @@
+[
+    { "id": "1", "name": "John Doe", "gender": "Male", "salary": "50000" },
+    { "id": "2", "name": "Jane Smith", "gender": "Female", "salary": "60000" },
+    { "id": "3", "name": "Michael Johnson", "gender": "Male", "salary": "55000" },
+    { "id": "4", "name": "Emily Davis", "gender": "Female", "salary": "70000" },
+    { "id": "5", "name": "Chris Brown", "gender": "Male", "salary": "48000" },
+    { "id": "6", "name": "Sarah Wilson", "gender": "Female", "salary": "62000" },
+    { "id": "7", "name": "David Lee", "gender": "Male", "salary": "53000" },
+    { "id": "8", "name": "Laura Martinez", "gender": "Female", "salary": "75000" },
+    { "id": "9", "name": "James White", "gender": "Male", "salary": "45000" },
+    { "id": "10", "name": "Sophia Harris", "gender": "Female", "salary": "67000" },
+    { "id": "11", "name": "Daniel Clark", "gender": "Male", "salary": "58000" },
+    { "id": "12", "name": "Olivia Lewis", "gender": "Female", "salary": "63000" },
+    { "id": "13", "name": "Matthew Walker", "gender": "Male", "salary": "51000" },
+    { "id": "14", "name": "Isabella Scott", "gender": "Female", "salary": "71000" },
+    { "id": "15", "name": "Andrew Hall", "gender": "Male", "salary": "49000" }
+  ]
+  
